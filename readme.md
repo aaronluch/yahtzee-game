@@ -33,7 +33,7 @@ Follow these steps to get started:
 
 1. Clone the repository to your local machine.
 2. Navigate to the `src` directory and compile the Java files using `javac *.java`.
-3. Run the `Main` class with `java Main` to begin the game.
+3. Run the `GameDriver` class with `java GameDriver` to begin the game.
 4. Follow the on-screen instructions to play the game.
 
 ## Technologies Used
